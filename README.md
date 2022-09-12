@@ -3,6 +3,7 @@ NB: This is a template to make documentation process easy. You can remove the `T
 # Project Title: Trend Analysis of Company XYZ sales
 
 ## Description:
+
 #### A deep dive into the analysis of the sales data of company XYZ to identify trends, patterns and other useful insights. Furthermore to determine measures to drive more sales and increase growth
 
 # Project Steps
